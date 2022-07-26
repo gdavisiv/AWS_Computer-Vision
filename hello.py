@@ -11,7 +11,7 @@ def detect(file):
     response = client.detect_labels(
         Image={
             'S3Object': {
-                'Bucket': 'aws-ml-guide',
+                'Bucket': 'aws-test-img-bucket',
                 'Name': file,
             },
         },
