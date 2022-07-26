@@ -20,4 +20,4 @@ This is a repo for creating Computer Vision examples
 
 * How to build CLI
 
-![cli](https://user-images.githubusercontent.com/58792/117541279-20ef7b00-afe1-11eb-892a-eb55a7e0e91e.png)
+![cli](https://user-images.githubusercontent.com/7787759/181100674-b759d910-54e3-43cf-a5fe-b55624524aba.png)
