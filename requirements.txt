@@ -2,4 +2,10 @@ boto3
 pylint
 pytest
 click
+numpy
+scipy
+matplotlib
+mahotas
+scikit-learn
+scikit-image
 ipython
