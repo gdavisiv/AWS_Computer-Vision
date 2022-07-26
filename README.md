@@ -16,7 +16,7 @@ This is a repo for creating Computer Vision examples
 
 * Use AWS Cloud9 to build full Command-Line tools and web servers or serverless
 
-![cloud9](https://user-images.githubusercontent.com/58792/117539662-a4a56980-afd9-11eb-9377-2d0f8f96e7bc.png)
+![cloud9](https://user-images.githubusercontent.com/7787759/181101515-da10bf6b-2c7b-4323-8994-b1e591d9b1f4.png)
 
 * How to build CLI
 
