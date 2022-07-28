@@ -16,6 +16,3 @@ This is a repo for creating Computer Vision examples
 
 ![cloud9](https://user-images.githubusercontent.com/7787759/181101515-da10bf6b-2c7b-4323-8994-b1e591d9b1f4.png)
 
-* How to build CLI
-
-![cli](https://user-images.githubusercontent.com/7787759/181100674-b759d910-54e3-43cf-a5fe-b55624524aba.png)
