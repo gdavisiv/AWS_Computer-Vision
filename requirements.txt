@@ -9,3 +9,4 @@ mahotas
 scikit-learn
 scikit-image
 ipython
+exif
